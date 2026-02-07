@@ -30,7 +30,7 @@ SMS API: Integration with a third-party SMS service provider to handle message d
 Clone the Repository
 
 Bash
-git clone https://github.com/your-username/Student-Mangement-SMS-ALERT.git
+git clone https://github.com/RushikeshSisode/Student-Management-System.git
 Configuration
 
 Set up your database environment.
